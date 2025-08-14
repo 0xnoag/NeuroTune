@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/whx9Cp5q/tool.png" alt="NeuroTune Banner" width="600"/>
+  <img src="https://i.ibb.co/psfCcT8/tool.png" alt="NeuroTune Banner" width="600"/>
 </p>
 
 # NeuroTune v0.3
